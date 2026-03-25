@@ -39,26 +39,26 @@ This project focuses on conducting a complete SEO audit for Snitch.com, specific
 - Compared Snitch with competitors to identify SEO gaps  
 - Analyzed keyword and content opportunities  
 
-## ⚠️ Key Issues Identified
+##  Key Issues Identified
 - Thin or missing content on category pages  
 - Weak keyword optimization  
 - Limited internal linking  
 - Moderate domain authority and backlinks  
 
-## 💡 Recommendations
+##  Recommendations
 - Add 200–300 words SEO content on category pages  
 - Optimize title tags and meta descriptions  
 - Improve internal linking  
 - Build backlinks through content and outreach  
 - Improve website speed and mobile performance  
 
-## 📈 Expected Outcomes
+## Expected Outcomes
 - Increase in organic traffic  
 - Improved keyword rankings  
 - Better user engagement  
 - Higher conversion potential  
 
-## 📊 Learning Outcome
+## Learning Outcome
 - Gained practical understanding of SEO fundamentals  
 - Learned keyword research and search intent  
 - Understood technical and on-page SEO concepts  
